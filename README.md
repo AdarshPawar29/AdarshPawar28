@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/AdarshPaawar29/count.svg" />
 </p>
 
 I'm Adarsh from India, and I do content on Data Analysis and Web Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in Angular. I also enjoy doing visualization and find meaningfull insights from various set of data.
