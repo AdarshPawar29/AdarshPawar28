@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AdarshPawar29/AdarshPawar29/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/AdarshPawar29/AdarshPawar29/static/js/main.19ae9ab9.chunk.js",
+    "main.js.map": "/AdarshPawar29/AdarshPawar29/static/js/main.19ae9ab9.chunk.js.map",
+    "runtime-main.js": "/AdarshPawar29/AdarshPawar29/static/js/runtime-main.3f9c0258.js",
+    "runtime-main.js.map": "/AdarshPawar29/AdarshPawar29/static/js/runtime-main.3f9c0258.js.map",
+    "static/js/2.3d224022.chunk.js": "/AdarshPawar29/AdarshPawar29/static/js/2.3d224022.chunk.js",
+    "static/js/2.3d224022.chunk.js.map": "/AdarshPawar29/AdarshPawar29/static/js/2.3d224022.chunk.js.map",
+    "static/js/3.9958467a.chunk.js": "/AdarshPawar29/AdarshPawar29/static/js/3.9958467a.chunk.js",
+    "static/js/3.9958467a.chunk.js.map": "/AdarshPawar29/AdarshPawar29/static/js/3.9958467a.chunk.js.map",
+    "index.html": "/AdarshPawar29/AdarshPawar29/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/AdarshPawar29/AdarshPawar29/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3d224022.chunk.js.LICENSE.txt": "/AdarshPawar29/AdarshPawar29/static/js/2.3d224022.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f9c0258.js",
+    "static/js/2.3d224022.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.19ae9ab9.chunk.js"
+  ]
+}
