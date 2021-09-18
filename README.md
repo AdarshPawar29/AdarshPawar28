@@ -1,5 +1,3 @@
-# Hello 🙋🏻‍♂️
-
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
@@ -21,7 +19,7 @@ I'm Adarsh from India, and I do content on Data Analysis and Web Development. I 
 
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdarshPawar29&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshPawar29&layout=compact)
 
-## Feel free to contact me. I am always here ... 📝
+## Feel free to contact me. I am always here ... 🙋🏻‍♂️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Adarsh%20Pawar-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/adarshpawar28/)
 [![Mail](https://img.shields.io/badge/Gmail-adarshpawar28@gmail.com-red?logo=Gmail&logoColor=red&labelColor=white)](mailto:adarshpawar28@gmail.com)
