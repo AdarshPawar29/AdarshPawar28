@@ -17,8 +17,6 @@ I'm Adarsh from India, and I do content on Data Analysis and Web Development. I 
 - 📊 Tableau, R
 - 💻 HTML, CSS, JS
 
-## Examples of Work
-
 ## Overview of GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshPawar29&layout=compact) ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdarshPawar29&show_icons=true)
