@@ -11,7 +11,7 @@ I'm Adarsh from India, and I do content on Web Development. I enjoy learning lan
 
 ## Skills and Experience
 
-- ⚛ React
+- ⚛ React, Django
 - 📊 Tableau, R
 - 💻 HTML, CSS, JS
 
