@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/AdarshPaawar29/count.svg" />
 </p>
 
-I'm Adarsh from India, and I do content on Data Analysis and Web Development. I enjoy learning languages and frameworks like React and React Native, as well as work in Angular. I also enjoy doing visualization and find meaningful insights from various sets of data. Feel free to see my [Data Stories](https://public.tableau.com/app/profile/adarshpawar28).
+I'm Adarsh from India, and I do content on Web Development. I enjoy learning languages and JS frameworks. Feel free to see my [Web Page](https://www.adarshpawar.com).
 
 ## Skills and Experience
 
